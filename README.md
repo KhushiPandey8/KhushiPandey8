@@ -78,7 +78,7 @@ Here’s my tech stack:
 
 ## 📊 GitHub Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xing24xing&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ---
 
