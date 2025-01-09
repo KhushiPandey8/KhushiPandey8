@@ -102,7 +102,7 @@ Feel free to reach out for collaborations or inquiries:
 
 ### 🐍 Watch the Snake Eat My Contributions!
 
-![Snake animation](https://github.com/KhushiPandey8/KhushiPandey8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KhushiPandey8/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
