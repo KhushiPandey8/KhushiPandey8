@@ -78,7 +78,23 @@ I’d love to collaborate on:
 
 ## 📊 GitHub Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+### 🔥 General Stats  
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&show_icons=true&count_private=true&theme=tokyonight)
+
+### 🌟 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiPandey8&layout=compact&theme=tokyonight&langs_count=8)
+
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KhushiPandey8&theme=tokyonight&no-frame=true&column=5)
+
+### 🔄 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushiPandey8&theme=tokyonight)
+
+### 📈 Contribution Activity  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KhushiPandey8&theme=tokyonight)
+
+### 🐍 Contribution Snake Animation  
+![Snake animation](https://github.com/KhushiPandey8/KhushiPandey8/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -97,12 +113,6 @@ Feel free to reach out for collaborations or inquiries:
 - 💼 LinkedIn: [Khushi Pandey](https://www.linkedin.com/in/khushipandey8/)  
 - 🤝 Support Me:  
   [![Patreon](https://img.shields.io/badge/Support%20Me-Patreon-orange)](https://www.patreon.com/KhushiPandey)
-
----
-
-### 🐍 Watch the Snake Eat My Contributions!
-
-![Snake animation](https://github.com/KhushiPandey8/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
