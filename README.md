@@ -11,7 +11,7 @@ Currently pursuing a **B.Sc. in Information Technology** at LN College of Manage
 
 ---
 
-## 🚀 Quick Links
+## 🚀 Visit Sites to Know more
 
 <div align="center">
   <a href="https://mysiteintro.netlify.app/" target="_blank">
@@ -27,7 +27,7 @@ Currently pursuing a **B.Sc. in Information Technology** at LN College of Manage
 
 ---
 
-### Expertise:
+## Expertise:
 - 🖥️ **Web Development**: React, Next.js, Node.js, GSAP  
 - 📱 **Mobile Development**: Flutter, Android  
 - 🤖 **AI & Machine Learning**: TensorFlow, Keras, Python  
