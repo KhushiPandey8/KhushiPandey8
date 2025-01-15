@@ -1,17 +1,17 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!💫💫
 
 Hi, I’m **@KhushiPandey8** (Khushi Pandey) 👩‍💻
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me  💫💫
 
 I’m **Khushi Pandey**, a passionate **developer**, **problem solver**, and **tech enthusiast**.  
 Currently pursuing a **B.Sc. in Information Technology** at LN College of Management and Technology (2022–2025).  
 
 ---
 
-## 🚀 Visit Sites to Know more
+## 🚀 👨‍💻 Visit Sites To Know more 💫💫
 
 <div align="center">
   <a href="https://mysiteintro.netlify.app/" target="_blank">
@@ -37,7 +37,7 @@ Currently pursuing a **B.Sc. in Information Technology** at LN College of Manage
 
 ---
 
-## 💞️ Collaboration Interests
+## 💞️ Collaboration Interests 💫💫💡
 
 Open to collaborating on:  
 - 🌍 **Open Source Projects**  
@@ -54,7 +54,7 @@ Open to collaborating on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 💫💫
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiPandey8&layout=compact&theme=tokyonight)  
@@ -62,7 +62,7 @@ Open to collaborating on:
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake  💫💫
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushiPandey8/KhushiPandey8/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhushiPandey8/KhushiPandey8/output/github-snake.svg" />
@@ -71,7 +71,7 @@ Open to collaborating on:
 
 ---
 
-## 💌 Contact Me
+## 💌 Contact Me 💫💫
 
 📧 [Email](mailto:xingxing8601@example.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/khushipandey8/)  
