@@ -11,7 +11,7 @@ Currently pursuing a **B.Sc. in Information Technology** at LN College of Manage
 
 ---
 
-## 🚀 👨‍💻 Visit Sites To Know more 💫💫
+## 👨‍💻 Visit Sites To Know More 💫💫
 
 <div align="center">
   <a href="https://mysiteintro.netlify.app/" target="_blank">
