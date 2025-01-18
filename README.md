@@ -79,5 +79,5 @@ Open to collaborating on:
 
 ---
 
-### 🙌 Thank You! 💫✨
+## 🙌 Thank You! 💫✨
 #### Thanks for visiting! Let’s create something amazing together. 🚀
