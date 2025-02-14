@@ -79,5 +79,7 @@ Open to collaborating on:
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?KhushiPandey8/KhushiPandey8&color=blue)
+
 ## 🙌 Thank You! 💫✨
 #### Thanks for visiting! Let’s create something amazing together. 🚀
