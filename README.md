@@ -81,8 +81,5 @@ Open to collaborating on:
 
 ![Contributions](https://img.shields.io/badge/Contributions-Active-blue?style=for-the-badge)
 
-![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20Visiting-blue?style=flat-square)
-
-
 ## 🙌 Thank You! 💫✨
-#### Thanks for visiting! Let’s create something amazing together. 🚀
+#### ![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20Visiting-blue?style=flat-square) ! Let’s create something amazing together. 🚀
