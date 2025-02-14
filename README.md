@@ -79,7 +79,7 @@ Open to collaborating on:
 
 ---
 
-![Cnt](https://komarev.com/ghpvc/?username=KhushiPandey8&color=blue)
+<img src="https://your-tracking-service.com/track?user=KhushiPandey8" alt="Invisible Tracking Image" style="display:none;">
 
 ## 🙌 Thank You! 💫✨
 #### Thanks for visiting! Let’s create something amazing together. 🚀
