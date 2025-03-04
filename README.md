@@ -28,9 +28,9 @@ Hi, I’m **@KhushiPandey8** (Khushi Pandey) 👩‍💻
 
 ### 📊 GitHub Stats && Achievement💫💫
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&theme=vue&show_icons=true&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiPandey8&theme=vue&show_icons=true&hide_border=true&layout=compact)  
-![Streak](https://streak-stats.demolab.com?user=KhushiPandey8&theme=vue&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KhushiPandey8&theme=prussian&show_icons=true&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiPandey8&theme=prussian&show_icons=true&hide_border=true&layout=compact)  
+![Streak](https://streak-stats.demolab.com?user=KhushiPandey8&theme=prussian&hide_border=true)
 
 ---
 
